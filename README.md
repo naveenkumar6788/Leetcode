@@ -7,4 +7,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/naveenkumar6788/Leetcode/tree/master/0007-reverse-integer) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/naveenkumar6788/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/naveenkumar6788/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/naveenkumar6788/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/naveenkumar6788/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
