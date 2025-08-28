@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naveenkumar6788/Leetcode/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/naveenkumar6788/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
