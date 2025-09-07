@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/naveenkumar6788/Leetcode/tree/master/0007-reverse-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1448-maximum-69-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/naveenkumar6788/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/naveenkumar6788/Leetcode/tree/master/3830-find-closest-person) |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1448-maximum-69-number) |
+## Array
+|  |
+| ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->
