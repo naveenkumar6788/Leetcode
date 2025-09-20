@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1646-kth-missing-positive-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
