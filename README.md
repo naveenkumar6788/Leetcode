@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -84,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
