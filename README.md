@@ -51,12 +51,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [1137-height-checker](https://github.com/naveenkumar6788/Leetcode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
@@ -91,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
