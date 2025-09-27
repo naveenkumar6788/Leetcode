@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/naveenkumar6788/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
+| [0812-rotate-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0812-rotate-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -106,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0777-toeplitz-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
