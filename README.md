@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/naveenkumar6788/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/naveenkumar6788/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/naveenkumar6788/Leetcode/tree/master/3830-find-closest-person) |
@@ -52,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/naveenkumar6788/Leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/naveenkumar6788/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
+| [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/naveenkumar6788/Leetcode/tree/master/0383-ransom-note) |
+| [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
