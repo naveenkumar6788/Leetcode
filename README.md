@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/naveenkumar6788/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/naveenkumar6788/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/naveenkumar6788/Leetcode/tree/master/3830-find-closest-person) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/naveenkumar6788/Leetcode/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
