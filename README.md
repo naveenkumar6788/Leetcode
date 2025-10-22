@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0001-two-sum) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0777-toeplitz-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/naveenkumar6788/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
