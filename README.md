@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0777-toeplitz-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0777-toeplitz-matrix) |
 ## String Matching
 |  |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/naveenkumar6788/Leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenkumar6788/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
