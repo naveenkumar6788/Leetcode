@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/naveenkumar6788/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/naveenkumar6788/Leetcode/tree/master/1137-height-checker) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/naveenkumar6788/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/naveenkumar6788/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/naveenkumar6788/Leetcode/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/naveenkumar6788/Leetcode/tree/master/2540-minimum-common-value) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/naveenkumar6788/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## String Matching
 |  |
