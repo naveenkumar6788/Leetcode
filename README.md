@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/naveenkumar6788/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/naveenkumar6788/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/naveenkumar6788/Leetcode/tree/master/0704-binary-search) |
