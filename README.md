@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/naveenkumar6788/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/naveenkumar6788/Leetcode/tree/master/1018-largest-perimeter-triangle) |
