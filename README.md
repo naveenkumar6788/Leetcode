@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/naveenkumar6788/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/naveenkumar6788/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/naveenkumar6788/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/naveenkumar6788/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/naveenkumar6788/Leetcode/tree/master/1137-height-checker) |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
