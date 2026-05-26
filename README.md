@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/naveenkumar6788/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2491-smallest-even-multiple](https://github.com/naveenkumar6788/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2544-alternating-digit-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/naveenkumar6788/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/naveenkumar6788/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
