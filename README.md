@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-smallest-even-multiple](https://github.com/naveenkumar6788/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/naveenkumar6788/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/naveenkumar6788/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/naveenkumar6788/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naveenkumar6788/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
