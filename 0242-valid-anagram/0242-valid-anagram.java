@@ -1,0 +1,17 @@
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        s=s.replaceAll("\\s","").toLowerCase();
+        t=t.replaceAll("\\s","").toLowerCase();
+        if(s.length()!=t.length()){
+            return false;
+        }
+        char[] str1=s.toCharArray();
+        char[] str2=t.toCharArray();
+        Arrays.sort(str1);
+        Arrays.sort(str2);
+        if(Arrays.equals(str1,str2)){
+            return true;
+        }
+        return false;
+    }
+}
