@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/naveenkumar6788/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
@@ -276,4 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/naveenkumar6788/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/naveenkumar6788/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
