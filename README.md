@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/naveenkumar6788/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/naveenkumar6788/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2032-two-out-of-three](https://github.com/naveenkumar6788/Leetcode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/naveenkumar6788/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenkumar6788/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2032-two-out-of-three](https://github.com/naveenkumar6788/Leetcode/tree/master/2032-two-out-of-three) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/naveenkumar6788/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/naveenkumar6788/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/naveenkumar6788/Leetcode/tree/master/2540-minimum-common-value) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
+| [2032-two-out-of-three](https://github.com/naveenkumar6788/Leetcode/tree/master/2032-two-out-of-three) |
 ## Matrix
 |  |
 | ------- |
