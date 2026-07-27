@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2651-calculate-delayed-arrival-time](https://github.com/naveenkumar6788/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/naveenkumar6788/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naveenkumar6788/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3536-maximum-product-of-two-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveenkumar6788/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/naveenkumar6788/Leetcode/tree/master/3830-find-closest-person) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/naveenkumar6788/Leetcode/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/naveenkumar6788/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naveenkumar6788/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
