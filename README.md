@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/naveenkumar6788/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/naveenkumar6788/Leetcode/tree/master/1137-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/naveenkumar6788/Leetcode/tree/master/0819-most-common-word) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1331-rank-transform-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-two-out-of-three](https://github.com/naveenkumar6788/Leetcode/tree/master/2032-two-out-of-three) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/naveenkumar6788/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/naveenkumar6788/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/naveenkumar6788/Leetcode/tree/master/1137-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/naveenkumar6788/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
