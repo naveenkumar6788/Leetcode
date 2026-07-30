@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/naveenkumar6788/Leetcode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveenkumar6788/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3945-digit-frequency-score](https://github.com/naveenkumar6788/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Tree
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naveenkumar6788/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/naveenkumar6788/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/naveenkumar6788/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
