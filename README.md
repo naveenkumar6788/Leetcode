@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/naveenkumar6788/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/naveenkumar6788/Leetcode/tree/master/0819-most-common-word) |
+| [1021-remove-outermost-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/naveenkumar6788/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenkumar6788/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/naveenkumar6788/Leetcode/tree/master/2418-sort-the-people) |
@@ -325,4 +326,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/naveenkumar6788/Leetcode/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
