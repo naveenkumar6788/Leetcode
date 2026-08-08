@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/naveenkumar6788/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveenkumar6788/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/naveenkumar6788/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveenkumar6788/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/naveenkumar6788/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/naveenkumar6788/Leetcode/tree/master/0877-stone-game) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
