@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveenkumar6788/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/naveenkumar6788/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1480-running-sum-of-1d-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/naveenkumar6788/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
