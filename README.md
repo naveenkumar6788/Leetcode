@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/naveenkumar6788/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveenkumar6788/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/naveenkumar6788/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
@@ -362,4 +365,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/naveenkumar6788/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
