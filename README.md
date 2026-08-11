@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/naveenkumar6788/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/naveenkumar6788/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
+| [0198-house-robber](https://github.com/naveenkumar6788/Leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/naveenkumar6788/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveenkumar6788/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/naveenkumar6788/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/naveenkumar6788/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
