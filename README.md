@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/naveenkumar6788/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/naveenkumar6788/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/naveenkumar6788/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/naveenkumar6788/Leetcode/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/naveenkumar6788/Leetcode/tree/master/0877-stone-game) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/naveenkumar6788/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/naveenkumar6788/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/naveenkumar6788/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
