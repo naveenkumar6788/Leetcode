@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/naveenkumar6788/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/naveenkumar6788/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/naveenkumar6788/Leetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/naveenkumar6788/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/naveenkumar6788/Leetcode/tree/master/0213-house-robber-ii) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/naveenkumar6788/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveenkumar6788/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/naveenkumar6788/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0151-reverse-words-in-a-string) |
