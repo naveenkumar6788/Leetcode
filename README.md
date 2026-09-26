@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/naveenkumar6788/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/naveenkumar6788/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/naveenkumar6788/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/naveenkumar6788/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0812-rotate-string) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/naveenkumar6788/Leetcode/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/naveenkumar6788/Leetcode/tree/master/2540-minimum-common-value) |
