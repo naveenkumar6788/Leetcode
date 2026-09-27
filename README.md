@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/naveenkumar6788/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/naveenkumar6788/Leetcode/tree/master/0486-predict-the-winner) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/naveenkumar6788/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/naveenkumar6788/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/naveenkumar6788/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/naveenkumar6788/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/naveenkumar6788/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/naveenkumar6788/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/naveenkumar6788/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/naveenkumar6788/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/naveenkumar6788/Leetcode/tree/master/0561-array-partition) |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/naveenkumar6788/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/naveenkumar6788/Leetcode/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naveenkumar6788/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
