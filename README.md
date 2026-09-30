@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkumar6788/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/naveenkumar6788/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/naveenkumar6788/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/naveenkumar6788/Leetcode/tree/master/1642-water-bottles) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/naveenkumar6788/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/naveenkumar6788/Leetcode/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/naveenkumar6788/Leetcode/tree/master/2032-two-out-of-three) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveenkumar6788/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
