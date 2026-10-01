@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/naveenkumar6788/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/naveenkumar6788/Leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/naveenkumar6788/Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/naveenkumar6788/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/naveenkumar6788/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naveenkumar6788/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/naveenkumar6788/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/naveenkumar6788/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/naveenkumar6788/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/naveenkumar6788/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveenkumar6788/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/naveenkumar6788/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/naveenkumar6788/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/naveenkumar6788/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Game Theory
