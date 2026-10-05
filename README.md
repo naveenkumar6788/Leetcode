@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/naveenkumar6788/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/naveenkumar6788/Leetcode/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/naveenkumar6788/Leetcode/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/naveenkumar6788/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveenkumar6788/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/naveenkumar6788/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveenkumar6788/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
 |  |
