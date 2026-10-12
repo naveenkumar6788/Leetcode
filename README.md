@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/naveenkumar6788/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/naveenkumar6788/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/naveenkumar6788/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveenkumar6788/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naveenkumar6788/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/naveenkumar6788/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Interactive
 |  |
 | ------- |
