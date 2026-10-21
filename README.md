@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3745-maximize-expression-of-three-elements](https://github.com/naveenkumar6788/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/naveenkumar6788/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/naveenkumar6788/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/naveenkumar6788/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/naveenkumar6788/Leetcode/tree/master/3174-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/naveenkumar6788/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Combinatorics
 |  |
 | ------- |
