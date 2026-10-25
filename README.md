@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/naveenkumar6788/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/naveenkumar6788/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/naveenkumar6788/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/naveenkumar6788/Leetcode/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/naveenkumar6788/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naveenkumar6788/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/naveenkumar6788/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/naveenkumar6788/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naveenkumar6788/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/naveenkumar6788/Leetcode/tree/master/1816-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenkumar6788/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/naveenkumar6788/Leetcode/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naveenkumar6788/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
